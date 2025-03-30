@@ -1,4 +1,7 @@
 # newRepo
 This is practice git hub
-#student
+# student
 Ronik
+# teacher
+Shradha Khapra
+
